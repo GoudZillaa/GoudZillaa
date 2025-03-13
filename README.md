@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Abhay Gaud
+Hi there! 👋 I'm Abhay Goud
 💻 Web Developer | Graphic Designer
 
 I love building web applications. Currently, I'm sharpening my Backend skills.
