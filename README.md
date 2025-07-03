@@ -5,14 +5,13 @@ I love building web applications. Currently, I'm sharpening my Backend skills.<b
 
 🚀 What I'm working on:<br>
 -Developing frontend projects to push my skills.<br>
--Exploring Web development with HTML, CSS, and JavaScript.<br>
+-Exploring Web development with HTML, CSS, JavaScript and React.js.<br>
 -Learning Git & GitHub to contribute to open-source.<br>
 
 🔧 Tech Stack:<br>
 Frontend: HTML, CSS, JavaScript, React.js<br>
-Backend: Node.js<br>
+Backend: Node.js, express.js, mongodb<br>
 Tools: Git, GitHub, Photoshop, Lightroom<br>
 
-📌 Check out my latest projects & contributions!<br>
 
 Let's connect and build something awesome! 🚀✨
