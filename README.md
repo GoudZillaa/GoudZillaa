@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Abhay Goud
 
-💻 **Full-Stack Web Developer** | React • Next.js • Laravel • Node.js
+💻 **Full-Stack Web Developer** | React • Next.js • Laravel • Node.js<br/>
 Portfolio-https://abhay-2026.vercel.app/
 
 I enjoy building real-world web applications, developer tools, and automation utilities.
