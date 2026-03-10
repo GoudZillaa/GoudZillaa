@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Abhay Goud
 
 💻 **Full-Stack Web Developer** | React • Next.js • Laravel • Node.js
+Portfolio-https://abhay-2026.vercel.app/
 
 I enjoy building real-world web applications, developer tools, and automation utilities.
 I’ve worked on production websites, CRM dashboards, and developer tooling including a CLI package and Chrome extension.
@@ -35,23 +36,6 @@ Git • GitHub • npm • REST APIs • WordPress Integration
 
 ---
 
-## 🛠 Projects
-
-**FormPilot Chrome Extension**
-Browser extension that automatically fills forms with mock data or saved user data.
-
-**Notion Context CLI**
-Developer CLI tool that allows accessing Notion data directly inside projects.
-Published as an **npm package**.
-
-**VP Group Global**
-Custom company website built using **Next.js** with automated lead collection.
-
-**Offices N More CRM**
-CRM dashboard interface built with **Laravel and Tailwind CSS**.
-
----
-
 ## 🌍 Real-World Work
 
 During my internship and freelance work I have:
@@ -64,18 +48,6 @@ During my internship and freelance work I have:
 
 ---
 
-## 🎓 Education
-
-**B.Sc. Information Technology**
-Patkar Varde College, Mumbai — 2024
-
-**Certifications**
-
-* Responsive Web Design – FreeCodeCamp
-* JavaScript Algorithms and Data Structures – FreeCodeCamp
-* Backend Development and APIs – FreeCodeCamp
-
----
 
 ## 📫 Connect With Me
 
